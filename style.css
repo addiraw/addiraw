@@ -1,0 +1,99 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+
+}
+header
+{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5)
+    ,rgba(0, 0, 100, 0.5)),url(image/bg-19.jpg);
+    height:100vh;
+    background-size: cover;
+    background-position: center
+
+}
+.navbar
+{
+    background:hsla(0, 76%, 57%, 0.945);
+    height: 80px;
+
+}
+.logo
+{
+    margin: 10px 50px;
+    height:60px;
+
+
+}
+.menu
+{
+    float:right;
+    list-style: none;
+    margin:20px;
+}
+.menu li
+
+{
+    display:inline-block;
+    margin: 10px 5px;
+
+}
+.menu li a{
+    text-decoration: none;
+    color: #000000;
+    padding: 5px 10px;
+    font-family: sans-serif;
+    letter-spacing: 2px;
+    border: 1px solid #ffaf02;
+    background: #9ec9dd17
+
+}
+.menu li a:hover
+{
+    background: #f7007762;
+   transition: .4s;
+   color: #000000;
+ 
+
+}
+
+.welcome
+{
+    position: relative;
+    text-align: center;
+    font-family: sans-serif;
+    color: #9409093d
+    top: 16 px;
+
+}
+
+.welcome h1 {
+    font-size: 20px;
+    margin: 25px;
+
+}
+.btn{
+    font-size: 18px;
+    letter-spacing: 2px;
+    margin: 5px;
+    padding: 7px 10px;
+    text-decoration: none;
+    border: 1px solid #682e2e56
+}
+.btn1{
+    background: #ffffff;
+    color:#000000;
+
+}
+.btn2{
+    color: #000000;
+
+}
+.btn2:hover{
+    background: #fffdfd;
+    color: #110303d0;
+    transition: 0.4s;
+    
+    
+}
