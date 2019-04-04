@@ -5,24 +5,48 @@
 
 }
 header
-{
-    background-image:linear-gradient(rgba(0, 0, 0, 0.5)
-    ,rgba(0, 0, 100, 0.5)),url(image/bg-19.jpg);
-    height:100vh;
+{  
+    background-image:linear-gradient(rgba(238, 238, 238, 0.5)
+    ,rgba(83, 136, 114, 0.5)),url(image/bg-05.jpg);
+    height:120vh;
     background-size: cover;
     background-position: center
+    
 
 }
 .navbar
 {
     background:hsla(0, 76%, 57%, 0.945);
     height: 80px;
+}
+
+nav{
+     position: fixed;
+     top: 0;
+     left: 0;
+     width: 100%;
+     height: 100px;
+     padding: 10px 100px;
+     box-sizing: border-box;
+     transition: .3s;
+}
+
+
+nav.black
+{ background: rgba(1, 1, 1, 1);
+    height: 100px;
+    padding: 10px 100px;
 
 }
+
+
+
 .logo
 {
-    margin: 10px 50px;
-    height:60px;
+    margin: 20px 30px;
+    height:150px;
+    padding-top: 5px;
+  
 
 
 }
@@ -45,13 +69,14 @@ header
     padding: 5px 10px;
     font-family: sans-serif;
     letter-spacing: 2px;
-    border: 1px solid #ffaf02;
-    background: #9ec9dd17
+    border: 1px solid #b199658e;
+    background: #9ec9dd17;
+    border-radius: 5px;
 
 }
 .menu li a:hover
 {
-    background: #f7007762;
+    background: #755f6a6c;
    transition: .4s;
    color: #000000;
  
@@ -69,7 +94,8 @@ header
 }
 
 .welcome h1 {
-    font-size: 20px;
+    color: #501111d0;
+    font-size: 30px;
     margin: 25px;
 
 }
@@ -79,7 +105,8 @@ header
     margin: 5px;
     padding: 7px 10px;
     text-decoration: none;
-    border: 1px solid #682e2e56
+    border: 1px solid #682e2e56;
+    border-radius: 6px;
 }
 .btn1{
     background: #ffffff;
@@ -101,3 +128,41 @@ header
 {
     background-image: url()
 }
+.headline-one
+{
+    color: #6b6a0c;
+    background: #e22c2c54;
+    text-align: center;
+    padding: 2px;
+    border: 5px solid #fafafa67 ;
+    margin: 0px;
+}
+.social-group
+{   align-content: center;
+    padding: 100px 100px 50px 50%;
+    border: 1px solid #b43131d3
+}
+
+
+.social-group li
+{ display: inline-block;
+    float: left;
+    
+}
+.social-group li:hover
+{
+
+}
+.social-group img
+{  float: left;
+    height: 30px;
+    width: 30px;
+
+}
+
+
+
+
+   
+     
+    
