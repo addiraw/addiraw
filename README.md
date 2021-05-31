@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m Adity Kumar username: @addiraw<a> https://github.com/addiraw </a>
+- 👋 Hi, I’m Adity Kumar username: <a href="https://github.com/addiraw">@addiraw</a>
 - 👀 I’m interested in Flutter development
 - 🌱 I’m currently learning flutter app development on different projects
 - 💞️ I’m looking to collaborate on flutter app development having backend
