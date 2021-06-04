@@ -23,11 +23,10 @@
 <a href="https://developer.android.com" target="_blank"> <img src="pics/android_icon.png" alt="Android" width="50" height="50"/> </a> 
 <a href="https://firebase.google.com" target="_blank"> <img src="pics/firebase_icon.png" alt="Firebase" width="50" height="50"/> </a> 
 <a href="https://www.java.com" target="_blank"> <img src="pics/java_icon.png" alt="Java" width="50" height="50"/> </a> 
-<a href="https://kotlinlang.org" target="_blank"> <img src="pics/kotlin_icon.png" alt="Kotlin" width="50" height="50"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="pics/cplusplus_icon.png" alt="C++" width="45" height="50"/> </a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=addiraw&show_icons=true&locale=en&theme=dark" alt="@" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=addiraw &show_icons=true&locale=en&theme=dark" alt="@" /></p>
 
 
 <!---
