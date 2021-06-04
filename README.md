@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,  I’m <a href="https://github.com/addiraw">Adity Kumar</a> </h1>
-<h3 align="center">Android | Ios Flutter Developer, Competitive Programmer</h3>
+<h3 align="center">Android | ios Flutter Developer, Competitive Programmer</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=acash512&label=Profile%20views&color=0e75b6&style=flat" alt="acash512" /> </p> -->
  <div align="center">
