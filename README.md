@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aakash Gupta</h1>
-<h3 align="center">Android Developer, Competitive Programmer</h3>
+<h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
+<h3 align="center">Android | Ios Flutter Developer, Competitive Programmer</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=acash512&label=Profile%20views&color=0e75b6&style=flat" alt="acash512" /> </p> -->
 
