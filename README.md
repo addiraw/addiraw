@@ -4,12 +4,16 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=acash512&label=Profile%20views&color=0e75b6&style=flat" alt="acash512" /> </p> -->
  <div align="center">
 <!-- - 👋 Hi, I’m <a href="https://github.com/addiraw">Adity Kumar</a>  -->
- 
-- 👀 I’m interested in Flutter development
-- 🌱 I’m currently learning flutter app development on different projects
-- 💞️ I’m looking to collaborate on flutter app development having backend
-- 📫 How to reach me Email : adityakumar1998rawat@gmail.com
+<!--  <ul style="list-style-type:square"> -->
+  👀 I’m interested in Flutter development
+    🌱 I’m currently learning flutter app development on different projects
+  💞️ I’m looking to collaborate on flutter app development having backend
+  📫 How to reach me Email : adityakumar1998rawat@gmail.com
 
+
+
+
+<!--  </ul> -->
  <h3>Connect with me:</h3>
 
 <p>
