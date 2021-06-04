@@ -26,9 +26,6 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="pics/cplusplus_icon.png" alt="C++" width="45" height="50"/> </a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=addiraw &show_icons=true&locale=en&theme=dark" alt="@" /></p>
-
-
 <!---
 addiraws/addiraws is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
