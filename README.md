@@ -12,13 +12,6 @@
 
 
 <!--  </ul> -->
- <h3>Connect with me:</h3>
-
-<p>
-<a href="https://www.linkedin.com/in/addiraw/" target="_blank"><img align="center" src="pics/linkedin_icon.png" alt="@" height="40" width="40" /></a>&nbsp;
- <a href="https://twitter.com/Addiraw" target="_blank"><img align="center" src="pics/twitter_icon.png" alt="@" height="40" width="40" /></a>&nbsp;
-<!-- <a href="#" target="_blank"><img align="center" src="pics/instagram_icon.png" alt="@" height="40" width="40" /></a> -->
-</p>
 
 <h3>Languages and Tools:</h3>
 
@@ -28,6 +21,16 @@
 <a href="https://www.java.com" target="_blank"> <img src="pics/java_icon.png" alt="Java" width="50" height="50"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="pics/cplusplus_icon.png" alt="C++" width="45" height="50"/> </a> 
 </p>
+<br>
+ <br>
+ <h5>Connect with me:</h5>
+
+<p>
+<a href="https://www.linkedin.com/in/addiraw/" target="_blank"><img align="center" src="pics/linkedin_icon.png" alt="@" height="20" width="20" /></a>&nbsp;
+ <a href="https://twitter.com/Addiraw" target="_blank"><img align="center" src="pics/twitter_icon.png" alt="@" height="20" width="20" /></a>&nbsp;
+<!-- <a href="#" target="_blank"><img align="center" src="pics/instagram_icon.png" alt="@" height="40" width="40" /></a> -->
+</p>
+
 </div>
 <!---
 addiraws/addiraws is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
