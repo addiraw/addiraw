@@ -15,9 +15,9 @@
  <h3>Connect with me:</h3>
 
 <p>
-<a href="#" target="blank"><img align="center" src="pics/twitter_icon.png" alt="@" height="40" width="40" /></a>&nbsp;
-<a href="#" target="blank"><img align="center" src="pics/linkedin_icon.png" alt="@" height="40" width="40" /></a>&nbsp;
-<a href="#" target="blank"><img align="center" src="pics/instagram_icon.png" alt="@" height="40" width="40" /></a>
+<a href="https://twitter.com/Addiraw" target="_blank"><img align="center" src="pics/twitter_icon.png" alt="@" height="40" width="40" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/addiraw/" target="_blank"><img align="center" src="pics/linkedin_icon.png" alt="@" height="40" width="40" /></a>&nbsp;
+<a href="#" target="_blank"><img align="center" src="pics/instagram_icon.png" alt="@" height="40" width="40" /></a>
 </p>
 
 <h3>Languages and Tools:</h3>
