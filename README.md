@@ -7,7 +7,7 @@
 <!--  <ul style="list-style-type:square"> -->
   👀 I’m interested in Flutter development
     🌱 I’m currently learning flutter app development on different projects
-  💞️ I’m looking to collaborate on flutter app development having backend
+  💞️ I’m looking to collaborate on flutter app development having focus on backend
 
 
 
