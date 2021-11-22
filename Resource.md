@@ -1,3 +1,4 @@
 #     Resources
-##    Links [guidelines](http://Material.io)    
-http://Material.io @aryan
+##    Links 
+###   Guidelines
+-    [http://Material.io @aryan](http://Material.io)
