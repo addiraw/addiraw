@@ -11,7 +11,7 @@ Hi, I’m <a href="https://github.com/addiraw">Adity Kumar</a>  Android | ios Fl
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="assets/icons/cplusplus_icon.png" alt="C++" width="20" height="20"/> </a>
 <a href="https://www,flutter.dev" target="_blank"> <img src="https://user-images.githubusercontent.com/46880800/141933299-9c44ad20-20e6-4ab2-9170-a3ecb7f132ed.png" alt="Flutter" width="20" height="20"/> </a>
 
-Currently learning flutter framework
+Currently learning flutter framework [🔖](https://github.com/addiraw/addiraw/blob/master/Resource.md)
 
 Looking to collaborate on flutter app development  <a href="https://www.linkedin.com/in/addiraw/" target="_blank"><img align="center" src="assets/icons/linkedin_icon.png" alt="@" height="12" width="12" /></a>&nbsp;
 <a href="https://twitter.com/Addiraw" target="_blank"><img align="center" src="assets/icons/twitter_icon.png" alt="@" height="12" width="12" /></a>&nbsp;
