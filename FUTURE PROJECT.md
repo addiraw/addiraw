@@ -1,8 +1,8 @@
 # Project
 
-These project are visible to all except confidential 
+*These project are visible to all except confidential 
 Link with * mark are not visible initially.
-You can Email me to know or query about these projects
+You can Email me to know or query about these projects*
 
 -  [First Project*.](/../../../../addiraw/square-root/blob/master/Redirectone.md)
 -  [Second Project*.](/../../../../addiraw/square-root/blob/master/Redirectone.md)
