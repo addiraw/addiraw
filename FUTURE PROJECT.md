@@ -1,6 +1,6 @@
 # Project
 
-##  These project are visible to all execpt confidential 
+##  These project are visible to all except confidential 
 > Link with * mark are not visible initially.
 > You can Email me to know or query about these projects
 
