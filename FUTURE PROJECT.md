@@ -1,4 +1,4 @@
 # Project
 [1]()
-[2](/../../../../github.com/addiraw/square-root/blob/master/Redirectone.md)
+[2](/../../../../addiraw/square-root/blob/master/Redirectone.md)
 
