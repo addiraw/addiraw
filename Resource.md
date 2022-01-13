@@ -8,5 +8,5 @@
   -   [SETUP](/SETUP.md)
 
 ##    Guideline
--   [http://Material.io](http://Material.io) 
+  1.  [Material.io](http://Material.io) 
 
