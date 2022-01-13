@@ -3,7 +3,7 @@
 
 
 
-Hi, I’m <a href="https://github.com/addiraw">Adity Kumar</a>  Android | ios Flutter Developer, Competitive Programmer
+Hi, I’m [Adity Kumar](/Portfolio.md) Android | ios Flutter Developer, Competitive Programmer
 
 <a href="https://developer.android.com" target="_blank"> <img src="assets/icons/android_icon.png" alt="Android" width="20" height="20"/> </a>
 <a href="https://firebase.google.com" target="_blank"> <img src="assets/icons/firebase_icon.png" alt="Firebase" width="20" height="20"/> </a>
@@ -13,7 +13,7 @@ Hi, I’m <a href="https://github.com/addiraw">Adity Kumar</a>  Android | ios Fl
 
 Currently learning flutter framework [🔖](https://github.com/addiraw/addiraw/blob/master/Resource.md)
 
-Looking to collaborate on flutter app development  <a href="https://www.linkedin.com/in/addiraw/" target="_blank"><img align="center" src="assets/icons/linkedin_icon.png" alt="@" height="12" width="12" /></a>&nbsp;
+Looking to [collaborate](/Resource.md) on flutter app development  <a href="https://www.linkedin.com/in/addiraw/" target="_blank"><img align="center" src="assets/icons/linkedin_icon.png" alt="@" height="12" width="12" /></a>&nbsp;
 <a href="https://twitter.com/Addiraw" target="_blank"><img align="center" src="assets/icons/twitter_icon.png" alt="@" height="12" width="12" /></a>&nbsp;
 <a href="#" target="_blank"><img align="center" src="assets/icons/instagram_icon.png" alt="@" height="12" width="12" /></a>
 
