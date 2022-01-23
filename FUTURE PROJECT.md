@@ -6,9 +6,11 @@
 -  [Third Project*.](/../../../../addiraw/square-root/blob/master/Redirectthree.md)
 
 
-* These project are visible to all except confidential. 
 
-Link with * mark are not visible initially.
 
-You can Email me to know or query about these projects*
+*These project are visible to all except confidential.* 
+
+*Link with * mark are not visible initially.*
+
+*You can Email me to know or query about these projects.*
 
