@@ -1,6 +1,6 @@
 # Project
 
--  [No project Kindly suggest me one project if you can.](https://github.com/addiraw/addiraw/issues/new)
+-  [No project click to suggest me one project if you can.](https://github.com/addiraw/addiraw/issues/new)
 -  [First Project*.](/../../../../addiraw/square-root/blob/master/Redirectone.md)
 -  [Second Project*.](/../../../../addiraw/square-root/blob/master/Redirecttwo.md)
 -  [Third Project*.](/../../../../addiraw/square-root/blob/master/Redirectthree.md)
