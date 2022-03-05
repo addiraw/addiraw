@@ -3,11 +3,11 @@
 
 # wifi setup
 
-![](./assets/image/1.jpg=250x250)
-![](./assets/image/2.jpg=250x250)
-![](./assets/image/3.jpg=250x250)
-![](./assets/image/4.jpg=250x250)
-![](./assets/image/5.jpg=250x250)
+![](./assets/image/1.jpg)
+![](./assets/image/2.jpg)
+![](./assets/image/3.jpg)
+![](./assets/image/4.jpg)
+![](./assets/image/5.jpg)
 
 - enter the following code
 - adb connect IP:PORT
