@@ -4,6 +4,7 @@
 # wifi setup
 
 [](./assets/image/1.jpg)
+
 [](./assets/image/2.jpg)
 [](./assets/image/3.jpg)
 [](./assets/image/4.jpg)
@@ -15,6 +16,10 @@
 
 - adb connect ip:port
 Port can be identified from settings>Developer mode>enable wireless debugging>ip:port
+- adb devices
+// Show devices
+- adb disconnect ip:port
+//To disconnect Wi-Fi devices
 
 ### other ways
 
