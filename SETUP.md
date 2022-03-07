@@ -2,6 +2,9 @@
 
 [Android Setup](./Android.md)
 
+# C++ Setup
+[Cplusplus](./C++.md)
+
 #   React js setup
 
 Npm run 
