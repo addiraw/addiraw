@@ -1,12 +1,13 @@
 ### Setup Tech Stacks
 *All reference to my project that worked or ongoing*
 
-Tech | Reference | Link
---- | --- | --
+Tech | Link|Reference|Despcription
+--- | --- | ---|---
 Android Setup | *[Android Setup](./Android.md)* |
 C++ Setup | *[C plus plus](./C++.md)* | 
 React js setup |  | Npm run 
-Spring boot setup | *[Spring boot](./springboot.md)* | 
+Spring boot setup | *[Spring boot](./Springboot.md)* | 
+Spring|*[Spring](./Spring.md)*|
 Reference| *[link](https://itnext.io/connect-your-device-over-wifi-instead-of-usb-cable-in-vs-visual-studio-to-debug-your-flutter-app-24496f596e9)* | 
-Flutter|*[PROJECT-FLUTTER](/PROJECT-FLUTTER.md)*|
+Flutter|*[Flutter](/PROJECT-FLUTTER.md)*|
 ||
