@@ -1,13 +1,10 @@
-Intial set-up
--  Select java with web
-Sts
-Eclipse
-
-Goto spring boot initializr
-Select package name
-Edit other fields
-Select java 
-And accordingly
+###	Intial set-up
+- Select java with web,sts,Eclipse
+-	Goto spring boot initializr
+-	Select package name
+-	Edit other fields
+-	Select java 
+-	And accordingly
 
 
 Wait to complete the setup
@@ -58,13 +55,15 @@ public String home()
     return "homr";
 
 }
+```
+JPA *java persistence*
 
-JPA 
-java persistence 
-its orm tool , orm is third party tool
-java is object oriented follower 
-It help in sql querying 
+-	its orm tool , orm is third party tool
+-	java is object oriented follower 
+-	It help in sql querying 
+
 |  id |  Name |  City | City |
+---|---|---|---
 |||||
 |||||
 |||||
