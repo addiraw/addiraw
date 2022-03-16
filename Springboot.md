@@ -6,6 +6,10 @@
 -	Select java 
 -	And accordingly
 
+##  Extension
+-   Spring Boot Extension Pack
+-   Java extension Pack
+
 
 Wait to complete the setup
 Make folder like sub package
@@ -45,6 +49,15 @@ add dependency
 </dependency>
 
 ```
+add dependency for auto rebuild after editinng
+```
+<!-- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-devtools -->
+<dependency>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-devtools</artifactId>
+    <version>2.6.4</version>
+</dependency>
+```
 In Mycontroller 
 Add a function for `@RequestMapping` 
 ```
@@ -71,7 +84,7 @@ JPA *java persistence*
 
 ##  Method to connect sql database through spring boot
 -   install the dependency of jpa
--   Press ctr+shift+T in eclipse on any java file in editor then search `mysql` and select 55 dilect
+-   Press `ctr+shift+T` in eclipse on any java file in editor then search `mysql` and select 55 dilect
 ```
  * Hibernate, Relational Persistence for Idiomatic Java
  *
@@ -125,3 +138,14 @@ write the test code like this
 ```
 output should be 
 `Course [id=1, title=Aditya, description=First]`
+
+Spring boot dev tool *To better auto run without rebuild*
+
+
+>   info 
+
+`@Controller `send the view if gets post request and need to assign `@ResponseBody`
+`@RestController` send the String body and no need to define `@ResponseBody`
+
+`@ResquestMapping(value = "/books", method = RequestMethod.GET)` vs
+`@GetMapping("/books")` second one is betther no need to define method.
