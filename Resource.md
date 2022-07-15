@@ -5,8 +5,8 @@
   ### Primary table
   Link|About|Description
   ---|---|---
-  [SETUP](/SETUP.md)|Project Setup|My project
   [FUTURE PROJECT](/FUTURE%20PROJECT.md)|All upcoming projects|To watch all project
+  [SETUP](/SETUP.md)|Project Setup|My project
   
   
   
