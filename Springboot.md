@@ -194,3 +194,10 @@ Folder Structure
                 |   +-- jsppages.jsp
 
 ```
+Books to refer for spring boot
+1. Spring boot in Action
+2. Learn Spring Boot 2.0
+3. Mastering Spring Boot 2.0
+4. Spring Microservices in Action
+5. Learn by Doing
+6. Prefer docs for learning
