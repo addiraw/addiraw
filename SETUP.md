@@ -13,8 +13,8 @@ Flutter|*[Flutter](/PROJECT-FLUTTER.md)*|
 MySQL|*[Mysql](./MySQL.md)*|To establish database
 Google cloud platform|[GCP](./PROJECT-GCP.md)|For GCP API manage
 Node|[Node](./Node.md)|For Node.js Project
-Test|[Test](./Testing)|For Testing purpose
-Java | [Java](./Java) | For Java project 
+Test|[Test](./Testing.md)|For Testing purpose
+Java | [Java](./Java.md) | For Java project 
 
 
 ### Other
