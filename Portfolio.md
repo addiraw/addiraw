@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Aditya Kumar]
+# 👋 Hi, I'm Aditya Kumar
 
 Welcome to my portfolio!  
 I’m a [Application Development Analyst] with a passion for [Java Backend with Spring boot].  
