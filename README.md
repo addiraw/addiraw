@@ -10,6 +10,6 @@ Task | Link | Description
 PORTFOLIO|*[👋 Portfolio](/Portfolio.md)*|To watch myself and my projects
 Project|*[🔖 Resource](/Resource.md)*|To have a look on different resources
 
-Looking to [collaborate](https://www.linkedin.com/in/addiraw/) on flutter app development  <a href="https://www.linkedin.com/in/addiraw/" target="_blank"><img align="center" src="assets/icons/linkedin_icon.png" alt="@" height="12" width="12" /></a>&nbsp;
+Looking to [collaborate](https://www.linkedin.com/in/addiraw/) on java | spring boot | flutter app development  <a href="https://www.linkedin.com/in/addiraw/" target="_blank"><img align="center" src="assets/icons/linkedin_icon.png" alt="@" height="12" width="12" /></a>&nbsp;
 <a href="https://twitter.com/Addiraw" target="_blank"><img align="center" src="assets/icons/twitter_icon.png" alt="@" height="12" width="12" /></a>&nbsp;
 <a href="#" target="_blank"><img align="center" src="assets/icons/instagram_icon.png" alt="@" height="12" width="12" /></a>
