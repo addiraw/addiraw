@@ -1,67 +1,31 @@
-<HTML>
-
+<!DOCTYPE html>
+<html lang="en">
 <head>
-    <title>
-
-        Addiraw | Aditya Kumar
-
-    </title>
-    <link rel="icon" href="#" type="image/x-icon" />
-    <link rel="stylesheet" href="style.css" type="text/css">
-
-
-
-
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aditya Kumar's Portfolio</title>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; line-height: 1.6; }
+    pre { background: #f4f4f4; padding: 10px; overflow-x: auto; }
+    code { background: #eee; padding: 2px 4px; border-radius: 3px; }
+  </style>
 </head>
-
 <body>
-    <header>
-        <div class="nav-bar">
+  <div id="content">Loading...</div>
 
-            <a href="#"><img class="logo" src="#" alt="logo"></a>
+  <script>
+    const mdUrl = "https://raw.githubusercontent.com/addiraw/addiraw/refs/heads/master/Portfolio.md";
 
-
-            <ul class="menu">
-                <li><a href="">[Nav]</a></li>
-                <li><a href="">[Nav]</a></li>
-                <li><a href="">[Nav]</a></li>
-                <li><a href="">[Nav]</a></li>
-                <li><a href="">[Nav]</a></li>
-            </ul>
-            <div class="welcome">
-                <h1>[Website Under Maintenance]</h1>
-                <a href="#" class="btn btn1">Jump[1]</a>
-                <a href="#" class="btn btn2">Jump[2]</a>
-            </div>
-        </div>
-    </header>
-
-    </div>
-
-    <div class="social-group">
-
-
-        <li>
-            <a class="fb" href="#"><img class="img" src="" alt="to be filled"></a>
-        </li>
-        <li>
-            <a class="insta" href=""> <img class="img" src="" alt="to be filled"></a>
-        </li>
-        <li><a class="git" href=""><img class="img" src="" alt="to be filled"></a></li>
-        <li>
-            <a class="gmail" href=""><img class="img" src="" alt="to be filled"></a>
-        </li>
-        <li>
-            <a class=" reddit" href=""><img class="img" src="" alt="to be filled"></a>
-
-        </li>
-        <li><a class="ipl" href=""><img class="img" src="" alt="to be filled"></a></li>
-    </div>
-    <div>
-
-    </div>
-
-
+    fetch(mdUrl)
+      .then(response => response.text())
+      .then(md => {
+        document.getElementById("content").innerHTML = marked.parse(md);
+      })
+      .catch(err => {
+        document.getElementById("content").innerText = "Failed to load Markdown file.";
+        console.error(err);
+      });
+  </script>
 </body>
-
-</HTML>
+</html>
