@@ -1,59 +1,112 @@
-# 👋 Hi, I'm Aditya Kumar
+# 👨‍💻 Aditya Kumar
 
-Welcome to my portfolio!  
-I’m a [Application Development Analyst] with a passion for [Java Backend with Spring boot].  
+📧 Email: adityakumar1998rawat@gmail.com  
+📱 Phone: +91 7982069063  
+🔗 LinkedIn: https://www.linkedin.com/in/addiraw  
 
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning: [Spring Boot]
-- 💼 Working on: [Naming Child Personal Project]
-- 🎯 Goal: [Building a future entrepeneur]
-- 📫 Reach me at: [adityakumar1998rawat@gmail.com]
+
+Backend Java Developer with experience in building scalable applications using **Java, Spring Boot, and Microservices architecture**. Strong understanding of software design principles, REST APIs, and database systems.
+
+Passionate about writing clean, efficient code and solving real-world problems using modern backend technologies.
 
 ---
 
-## 🛠️ Skills
-- **Languages:** [Java, C++, etc.]
-- **Frameworks & Libraries:** [Spring boot, Maven, React, etc.]
-- **Tools:** [Git, Docker, VSCode, etc.]
-- **Other:** [Design, Writing, Problem-Solving, etc.]
+## 🛠️ Technical Skills
+
+### 💻 Languages
+- Java
+- SQL
+
+### ⚙️ Frameworks & Technologies
+- Spring Boot
+- Spring MVC
+- Microservices Architecture
+- REST APIs
+
+### 🗄️ Databases
+- MySQL
+- IBM Informix (Migration experience)
+
+### 🔧 Tools & Platforms
+- Git & GitHub
+- Eclipse IDE
+- Maven
+- AWS (Basic knowledge)
+
+### 🧠 Concepts
+- OOPs (Encapsulation, Inheritance, Polymorphism, Abstraction)
+- SOLID Principles
+- ACID Properties
+- Multithreading Basics
+- Design Patterns (Basic)
 
 ---
 
 ## 📂 Projects
 
-### [Project 1 Name](link-to-project)
-📌 Short description of the project, what problem it solves, and your role.  
-**Tech stack:** [React, Node.js, MongoDB]
+### 🔹 1. IBM Informix to MySQL RDS Migration
+**Description:**  
+Developed a migration solution to transfer data from IBM Informix database to MySQL RDS on AWS.
+
+**Key Features:**
+- Data extraction and transformation
+- Schema mapping between databases
+- Automated migration scripts
+- Error handling and logging
+
+**Tech Stack:** Java, JDBC, MySQL, AWS RDS
 
 ---
 
-### [Project 2 Name](link-to-project)
-📌 Short description.  
-**Tech stack:** [Python, Flask, PostgreSQL]
+### 🔹 2. CRUD Web Application (Spring Boot)
+**Description:**  
+A simple web application to perform Create, Read, Update, Delete operations.
+
+**Key Features:**
+- RESTful APIs
+- Database integration
+- Exception handling
+- Layered architecture (Controller, Service, Repository)
+
+**Tech Stack:** Spring Boot, Java, MySQL
 
 ---
 
-### [Project 3 Name](link-to-project)
-📌 Short description.  
-**Tech stack:** [HTML, CSS, JavaScript]
+### 🔹 3. Name Suggestion App using ChatGPT API
+**Description:**  
+Web application that suggests names for newborn babies using AI.
+
+**Key Features:**
+- Integration with ChatGPT API
+- User-friendly UI
+- Dynamic name generation
+
+**Tech Stack:** Java Servlets, API Integration
 
 ---
 
-## 🏆 Achievements
-- 🥇 [Award or recognition you received]
-- 📜 [Certification you completed]
-- 🎤 [Talks, presentations, or publications]
+## 📜 Certifications
+
+- AWS Certified (Basic / Practitioner Level)
 
 ---
 
-## 📬 Contact Me
-- [LinkedIn](https://www.linkedin.com/in/Addiraw)  
-- [GitHub](https://github.com/Addiraw)  
-- [Twitter](https://twitter.com/Addiraw)  
-- ✉️ [adityakumar1998rawat@gmail.com]  
+## 🧩 Problem Solving
+
+- Strong knowledge of Data Structures & Algorithms  
+- Practicing coding problems regularly  
 
 ---
 
-⭐️ *Thanks for visiting my portfolio! Feel free to connect with me.*
+## 🎯 Career Objective
+
+To work in a challenging environment where I can enhance my backend development skills and contribute to building scalable and high-performance applications.
+
+---
+
+## 🤝 Let's Connect
+
+Feel free to reach out for collaboration or opportunities!
