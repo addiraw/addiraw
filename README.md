@@ -1,4 +1,4 @@
-Hi, I’m [Adity Kumar](/Portfolio.md) Android | ios Flutter Developer, Competitive Programmer
+Hi, I’m [Adity Kumar](/Portfolio.md) Backend | Java Spring Boot Developer, Competitive Programmer
 <a href="https://developer.android.com" target="_blank"> <img src="assets/icons/android_icon.png" alt="Android" width="20" height="20"/> </a>
 <a href="https://firebase.google.com" target="_blank"> <img src="assets/icons/firebase_icon.png" alt="Firebase" width="20" height="20"/> </a>
 <a href="https://www.java.com" target="_blank"> <img src="assets/icons/java_icon.png" alt="Java" width="20" height="20"/> </a>
