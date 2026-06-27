@@ -19,45 +19,52 @@ Passionate about writing clean, efficient code and solving real-world problems u
 ### 💻 Languages
 - Java
 - SQL
+- C++
+- Python
 
 ### ⚙️ Frameworks & Technologies
 - Spring Boot
 - Spring MVC
+- Spring
 - Microservices Architecture
 - REST APIs
+- Junit
+- Mockito
 
 ### 🗄️ Databases
 - MySQL
-- IBM Informix (Migration experience)
+- MongoDB
 
 ### 🔧 Tools & Platforms
+- AWS
+- Azure
 - Git & GitHub
 - Eclipse IDE
 - Maven
-- AWS (Basic knowledge)
 
 ### 🧠 Concepts
 - OOPs (Encapsulation, Inheritance, Polymorphism, Abstraction)
 - SOLID Principles
 - ACID Properties
-- Multithreading Basics
-- Design Patterns (Basic)
+- Multithreading
+- Design Patterns
 
 ---
 
 ## 📂 Projects
 
-### 🔹 1. IBM Informix to MySQL RDS Migration
+### 🔹 1. Reimbursement Engine
 **Description:**  
-Developed a migration solution to transfer data from IBM Informix database to MySQL RDS on AWS.
+- Hilton Honor Redemption for guest point calculation. 
 
 **Key Features:**
-- Data extraction and transformation
+- Rest Template and third party API integrations
+- CRUD based Rest API endpoints development
 - Schema mapping between databases
-- Automated migration scripts
+- Deploy services using Dockerize container
 - Error handling and logging
 
-**Tech Stack:** Java, JDBC, MySQL, AWS RDS
+**Tech Stack:** Java, Sprinf Boot, JDBC, MySQL, AWS RDS
 
 ---
 
@@ -90,7 +97,10 @@ Web application that suggests names for newborn babies using AI.
 
 ## 📜 Certifications
 
-- AWS Certified (Basic / Practitioner Level)
+- AZ-900 Microsoft Certified Azure Functional 
+- DVA-C02 AWS Certified (Basic / Practitioner Level)
+- Java
+- MySQL
 
 ---
 
